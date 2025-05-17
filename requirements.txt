@@ -1,0 +1,8 @@
+requests
+pypdf==4.3.1
+openpyxl
+numpy
+pandas
+python-dotenv
+docx2pdf
+docx2txt
